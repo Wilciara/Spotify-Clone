@@ -18,9 +18,21 @@
           
         
    ![image](https://user-images.githubusercontent.com/94201226/159398421-cd409e4c-4e90-4a02-8b84-8976ab8f648c.png)
-   ![image](https://user-images.githubusercontent.com/94201226/159398688-3d5ef6e2-20c9-4ac8-a877-6328642525a2.png)
+   ![image](https://user-images.githubusercontent.com/94201226/159398688-3d5ef6e2-20c9-4ac8-a877-6328642525a2.png)  
+     
+     
      
         
+  ![logo-gama-academy](https://user-images.githubusercontent.com/94201226/159398822-b5f568a9-b179-4cdd-b454-74e059d64dc4.png)    
+    
+     
+      
+         
+           
+             
+               
+                 
+                 
 
 
 
@@ -28,10 +40,12 @@
 
 
 
+  
+  
 
 
-
-
+  
+  
 
 
 # Getting Started with Create React App
