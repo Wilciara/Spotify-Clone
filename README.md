@@ -1,3 +1,39 @@
+
+
+
+  ![logo-gama-academy](https://user-images.githubusercontent.com/94201226/159397069-37f0a50b-43ff-415f-88e5-07b3cadce522.png)
+
+
+![image](https://user-images.githubusercontent.com/94201226/159397128-c10ec689-5654-4dbb-829b-e35ab5188698.png)
+
+
+# Expectativa X Realidade 
+  
+    
+      
+   https://app.usebubbles.com/c5yUuNFTaeLUDDjVx9c6Za/spotify-clone
+      
+        
+          
+          
+        
+   ![image](https://user-images.githubusercontent.com/94201226/159398421-cd409e4c-4e90-4a02-8b84-8976ab8f648c.png)
+   ![image](https://user-images.githubusercontent.com/94201226/159398688-3d5ef6e2-20c9-4ac8-a877-6328642525a2.png)
+     
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
